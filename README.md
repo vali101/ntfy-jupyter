@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/ntfy-jupyter.svg)](https://pypi.org/project/ntfy-jupyter/)
+
 # ntfy-jupyter
 
 `ntfy-jupyter` is an IPython extension that allows you to send notifications using the [ntfy](https://ntfy.sh/) service directly from Jupyter notebooks. This extension helps you keep track of your notebook tasks and results, sending notifications upon cell execution or failure.
